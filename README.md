@@ -48,6 +48,13 @@ This repo is intended as a foundation for **MOG benchmarking**. Future extension
 
 ---
 
+## 📚 Related Paper
+
+For more details, see our benchmarking paper:  
+[Benchmarking Multi-Object Grasping, IEEE](https://ieeexplore.ieee.org/document/11108246)
+
+---
+
 ## 📂 Repository Structure
 
 ```
