@@ -1,6 +1,6 @@
 # MOG Benchmarking – Starter Code  
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)  
 [![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4.4.0-orange.svg)](https://www.coppeliarobotics.com/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#-contributing)  
