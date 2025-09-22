@@ -45,13 +45,19 @@ This repo is intended as a foundation for **MOG benchmarking**. Future extension
 - Visualization and logging utilities.
 
 ## 📂 Repository Structure
-graphql
-Copy code
+
 MOG-Benchmarking-Starter-Code/
-├── starter_code.py       # Main script with stochastic strategy
-├── 40mm_sphere.ttt       # Example simulation scene
-├── PythonAPI/            # CoppeliaSim Python API bindings
-└── README.md             # Project documentation
+├── starter_code.py       # Main script with stochastic finger movement strategy
+├── 40mm_sphere.ttt       # Example CoppeliaSim scene file (40mm sphere object)
+├── PythonAPI/            # Python API bindings for CoppeliaSim
+│   └── ...               # (place your API scripts here)
+├── README.md             # Project documentation
+└── LICENSE               # MIT license file
+
+---
+
+Do you want me to also **expand this with placeholders** (e.g., where to put benchmarks, logs, configs, datasets) so it looks future-proof for when you extend the repo?
+
 
 ### 📜 License
 ```markdown
