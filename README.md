@@ -44,8 +44,11 @@ This repo is intended as a foundation for **MOG benchmarking**. Future extension
 - Comparisons between different grasp strategies.  
 - Visualization and logging utilities.
 
+---
+
 ## 📂 Repository Structure
 
+```
 MOG-Benchmarking-Starter-Code/
 ├── starter_code.py       # Main script with stochastic finger movement strategy
 ├── 40mm_sphere.ttt       # Example CoppeliaSim scene file (40mm sphere object)
@@ -53,11 +56,9 @@ MOG-Benchmarking-Starter-Code/
 │   └── ...               # (place your API scripts here)
 ├── README.md             # Project documentation
 └── LICENSE               # MIT license file
+```
 
 ---
-
-Do you want me to also **expand this with placeholders** (e.g., where to put benchmarks, logs, configs, datasets) so it looks future-proof for when you extend the repo?
-
 
 ### 📜 License
 ```markdown
