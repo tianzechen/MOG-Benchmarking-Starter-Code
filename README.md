@@ -26,6 +26,8 @@ Researchers and developers are encouraged to extend this starter code with their
 - [CoppeliaSim](https://www.coppeliarobotics.com/downloads) **version 4.4.0**  
 - Python ≥ 3.7
 
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
